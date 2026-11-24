@@ -219,6 +219,10 @@ task-manager/
 
 The repository also contains a root-level Prisma scaffold. Use the `backend/` schema and migrations for the running API.
 
+## UI Showcase & Screenshots
+<img width="1512" height="858" alt="Screenshot 2026-11-24 at 12 08 20 AM" src="https://github.com/user-attachments/assets/65778d6a-d64c-49a9-b7af-b90c6a7b84ff" />
+<img width="1512" height="858" alt="Screenshot 2026-11-24 at 12 07 56 AM" src="https://github.com/user-attachments/assets/8d690bef-88e2-428d-8399-23b95f559a9a" />
+
 ## Author
 
 Built by **[Varada Gupta](https://github.com/varadagupta20)**.
